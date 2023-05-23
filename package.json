@@ -1,0 +1,26 @@
+{
+  "name": "fullstackopenbackend",
+  "version": "1.0.0",
+  "description": "FullStackOpen Backend",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njoanc/FullStackOpen-2022-Backend.git"
+  },
+  "keywords": [
+    "ExpressJs",
+    "MongoDB",
+    "APIs",
+    "RESTFul",
+    "APIs"
+  ],
+  "author": "Jeanne d'Arc NYIRAMWIZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njoanc/FullStackOpen-2022-Backend/issues"
+  },
+  "homepage": "https://github.com/njoanc/FullStackOpen-2022-Backend#readme"
+}
