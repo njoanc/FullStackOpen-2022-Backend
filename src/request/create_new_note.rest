@@ -1,0 +1,7 @@
+POST http://localhost:3001/notes/create HHTP/1.1
+content-type:application/json
+
+{
+    "content":"Read before you reply",
+    "important":"true"
+}
